@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/profileAmira/static/css/main.fe113725.chunk.css",
+    "main.js": "/profileAmira/static/js/main.ff2de76c.chunk.js",
+    "main.js.map": "/profileAmira/static/js/main.ff2de76c.chunk.js.map",
+    "runtime~main.js": "/profileAmira/static/js/runtime~main.7808e291.js",
+    "runtime~main.js.map": "/profileAmira/static/js/runtime~main.7808e291.js.map",
+    "static/js/2.0bb15751.chunk.js": "/profileAmira/static/js/2.0bb15751.chunk.js",
+    "static/js/2.0bb15751.chunk.js.map": "/profileAmira/static/js/2.0bb15751.chunk.js.map",
+    "index.html": "/profileAmira/index.html",
+    "precache-manifest.f29e21f6b3fe5ef79c04ba79cc18ecd2.js": "/profileAmira/precache-manifest.f29e21f6b3fe5ef79c04ba79cc18ecd2.js",
+    "service-worker.js": "/profileAmira/service-worker.js",
+    "static/css/main.fe113725.chunk.css.map": "/profileAmira/static/css/main.fe113725.chunk.css.map"
+  }
+}
